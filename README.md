@@ -1,4 +1,4 @@
-# pokemon_battle_assistant_SV
+# battle-assistant-sv
 ポケモンSVランクマッチ用のリアルタイム自動ダメージ計算サイト<br>
 https://pbasv.cloudfree.jp/<br>
 のソースコード
